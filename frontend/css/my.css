@@ -1,0 +1,102 @@
+/* css chung */
+
+
+/* banner */
+.banner{
+    background-image: url(../tin-tuc/all-bg-title.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    padding: 70px 0px;
+
+}
+.banner:before{
+    position: absolute;
+    content: " ";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.5); 
+    z-index: -1;
+}
+.banner h2{
+    font-size: 28px;
+    font-weight: 700;
+    color: #ffffff;
+    float: left;
+    padding: 10px 0px;
+}
+
+.banner .breadcrumb {
+        background: #b0b435;
+        margin: 0px;
+        display: inline-block;
+        border-radius: 0px;
+        float: right;
+        margin-top: 20px;
+}
+
+.banner .breadcrumb li {
+    display: inline-block;
+    color: #000000;
+    font-size: 16px;
+}
+.banner .breadcrumb li a {
+    color: #ffffff;
+    font-size: 16px;
+}
+.bannerone{
+    background-image: url(../img/bg_3.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+
+}
+.bannerone:before{
+    position: absolute;
+    content: " ";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.5); 
+    z-index: -1;
+}
+
+
+.bannertwo{
+    background-image: url(../img/bg_1.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+
+}
+.bannertwo:before{
+    position: absolute;
+    content: " ";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.5); 
+    z-index: -1;
+}
+.anh-nen{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#leftadmin{
+    background: #b0b435;
+    margin-top: 50px;
+}
+

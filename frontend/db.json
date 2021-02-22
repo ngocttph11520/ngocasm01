@@ -1,0 +1,167 @@
+{
+    "baanh" :[
+        {   "name" : "Rau củ quả ",
+            "image": "https://www.upsieutoc.com/images/2021/01/29/categories_img_01.jpg"
+           
+        },
+
+        {
+            "name" : " Hoa quả tươi",
+            "image" : "https://www.upsieutoc.com/images/2021/01/29/categories_img_02.jpg"
+        },
+
+        {
+            "name" :"Rau sạch ",
+            "image" : "https://www.upsieutoc.com/images/2021/01/29/categories_img_02.jpg"
+        }
+
+    ],
+    "products": [
+        {
+            "id": "1",
+            "categoryId" : "1",
+            "name": "Cà rốt hữu cơ",
+            "image": "https://www.upsieutoc.com/images/2021/01/29/img-pro-01.jpg",
+            "price": "30.000",
+            "status": false,
+            "mota": "Tại sao bạn lại nên mua cà rốt:Một số nghiên cứu gần đây cho thấy, cà rốt có chứa các thành phần nhất định có tác dụng giảm nguy cơ ung thư phổi, ung thư vú và ung thư  Hợp chất beta-carotene trong cà rốt chuyển đổi thành vitamin A trong gan, sau đó sẽ được chuyển lên võng mạc, giúp tăng cường thị lực và sức khỏe của mắt. Bên cạnh đó, beta-carotene còn có chức năng bảo vệ mắt chống lại quá trình thoái hóa điểm vàng và đục thủy tinh thể do tuổi tác,Cà rốt chứa nhiều chất chống oxy hóa, có tác dụng giúp làm chậm quá trình lão hóa của tế bào,Lượng vitamin A cao trong cà rốt giúp bảo vệ làn da của bạn khỏi tác hại của ánh nắng mặt trời, thậm chí ngăn ngừa quá trình hình thành nếp nhăn, da khô, mụn trứng cá… Bạn cũng có thể sử dụng cà rốt luộc nghiền nát đắp lên các vết thương hoặc vết trầy xước trên da để ngừa nhiễm trùng.Bạn nên mua đâu hợp lí.Hãy đến với chúng tối. Nơi chuyên cung cấp thực phẩm sạch",
+            "quantity": 82644
+        },
+        {
+            "id": "2",
+            "categoryId" : "2",
+            "name": "Cà chua thái",
+            "image": "https://www.upsieutoc.com/images/2021/01/29/img-pro-02.jpg",
+            "price": "45.000",
+            "status": true,
+            "mota": "Có thể bạn chưa biết :bạn nên mua cà chua để chống ung thư:Ăn nhiều cà chua có thể giúp chống lại ung thư tuyến tiền liệt. Cà chua cũng có thể giúp giảm nguy cơ một số bệnh ung thư khác như dạ dày, phổi, cổ tử cung, vòm họng, trực tràng, đại tràng, thực quản, và ung thư  buồng trứng nhờ các chất chống ôxy hóa,  đặc biệt là nhờ vào hàm lượng lycopene rất cao có trong cà chua.  Tác dụng phòng chống ung thư của cà chua hốt hơn nhiều khi nấu loại quả này với dầu ô liu",
+            "quantity": 57587
+        },
+        {
+            "id": "3",
+            "categoryId" : "2",
+            "name": "Nho mỹ siêu cấp",
+            "image": "https://www.upsieutoc.com/images/2021/01/29/img-pro-03.jpg",
+            "price": "133.000",
+            "status": false,
+            "mota": "Sản phẩm chất lượng , nhập khẩu từ nước ngoài , thực phẩm dành cho những người nhiều tiền mà không biết tiêu gì thì các bạn hãy mua nho hoàng gia vừa thể hiện đẳng cấp vừa bổ sung nhiều chất dinh dưỡng cho cơ thể.Vậy nên các bạn hãy lựa chọn sản phẩm chúng tôi",
+            "quantity": 51117
+        },
+        {
+            "id": "4",
+            "categoryId" : "2",
+            "name": "Đu đủ trung quốc",
+            "image": "https://www.upsieutoc.com/images/2021/01/29/img-pro-04.jpg",
+            "price": "28.000",
+            "status": false,
+            "mota": "Đu Đủ được nhập hàng từ QUảng Châu.Đu đủ là loại trái cây nhiệt đới có hương vị thanh mát, dịu ngọt cùng màu sắc hấp dẫn. Từ lâu, công dụng của đu đủ đã được chứng minh thông qua hàng loạt các lợi ích sức khỏe, khiến cho nó trở thành một loại trái cây được rất nhiều người ưa thích.",
+            "quantity": 56
+        },
+        {
+            "id": "5",
+            "categoryId" : "1",
+            "name": "Rau mùng tơi ",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-01.jpg",
+            "price": "10.000",
+            "status": false,
+            "mota": "Mồng tơi là một loại dây leo, sống lâu năm hay hai năm. Thân mọc cuốn, dài 1,5 – 2m. Thân có phân nhánh, màu xanh nhạt hoặc tím nhạt. Lá mọc so le, đơn, nguyên, mẫm, có cuống, phiến lá hình trứng, đầu nhọn, phía cuống bằng hay hơi hẹp lại, dài 3 – 12cm, rộng 2 – 6cm. Cụm hoa hình bông mọc ở kẽ lá, nhỏ, màu trắng hay tím đỏ nhạt. Những bông ở phía trên dài và gầy hơn. Quả mọng, nhỏ hình cầu hay hình trứng, dài chừng 5 – 5mm, màu tim đen khi chín.",
+            "quantity": 82644
+        },
+        {
+            "id": "6",
+            "categoryId" : "2",
+            "name": "Dâu tây quý tộc",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-08.jpg",
+            "price": "450.000",
+            "status": true,
+            "mota": "Sản phẩm chất lượng , nhập khẩu từ nước ngoài , thực phẩm dành cho những người nhiều tiền mà không biết tiêu gì thì các bạn hãy mua nho hoàng gia vừa thể hiện đẳng cấp vừa bổ sung nhiều chất dinh dưỡng cho cơ thể.Vậy nên các bạn hãy lựa chọn sản phẩm chúng tôi",
+            "quantity": 57587
+        },
+        {
+            "id": "7",
+            "categoryId" : "3",
+            "name": "Hồng mỹ hoàng gia",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-02.jpg",
+            "price": "233.000",
+            "status": false,
+            "mota": "Cách chọn hồng tươi ngon:Do hồng là loại trái cây rất dễ dập úng, do đó nếu muốn chọn hồng ngon thì bạn phải quan sát bên ngoài vỏ quả hồng. Chọn những quả nào hoàn toàn lành lặn và không có dấu vết thâm dập, đặc biệt, phần vỏ sáng bóng là quả ngon bạn nhé,Kế đến, bạn dùng tay ấn nhẹ vào quả hồng nếu thấy hồng cứng chắc, khi nhấn vào không bị lõm là hồng tươi ngon.",
+            "quantity": 51117
+        },
+        {
+            "id": "8",
+            "categoryId" : "3",
+            "name": "Quất gia lâm",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-03.jpg",
+            "price": "48.000",
+            "status": false,
+            "mota": "Quất thực phẩm rất tốt cho sức khỏe. Chức năng:Quả quất cũng chứa nhiều vitamin C. Vitamin C giúp kích thích sự tăng trưởng của các tế bào mới và làm tăng hoạt động của hệ thống miễn dịch, giúp cơ thể tránh được nhiễm trùng, vi khuẩn và nấm.Quất giàu vitamin A và beta carotene, giúp giảm căng thẳng oxy hóa ở các tế bào võng mạc, do đó hạn chế thoái hóa điểm vàng và đục thủy tinh thể.",
+            "quantity": 56
+        }, {
+            "id": "9",
+            "categoryId" : "3",
+            "name": "Chanh siêu ngọt",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-04.jpg",
+            "price": "35.000",
+            "status": false,
+            "mota": "Quả chanh này có xuất xứ từ Australia, sinh trưởng trong các khu rừng nhiệt đới hoặc cận nhiệt đới vùng thấp ven biển. Điều góp phần khiến giá trị của chúng đắt đỏ là phần ruột khác hẳn những loại thông thường. Không chỉ có tác dụng tạo hương vị, các tép chanh còn giúp món ăn thêm bắt mắt, hảo hạng với vẻ ngoài như những viên ngọc nhiều màu sắc.",
+            "quantity": 82644
+        },
+        {
+            "id": "10",
+            "categoryId" : "2",
+            "name": "Bí đỏ Châu Âu",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-07.jpg",
+            "price": "298.000",
+            "status": false,
+            "mota": "Bí ngô cân nặng từ 0,45 kg trở lên và có thể nặng đến hơn 450 kg, như trường hợp một nông dân người Anh trồng một quả đạt 608,3 kg[4]. Bí có hình cầu hoặc hình trụ, chín thì màu vàng cam,[5] Bên ngoài có khía chia thành từng múi. Ruột bí có nhiều hột. Hạt dẹp, hình bầu dục có chứa nhiều dầu. Quả bí nặng nhất hiện nay được cân vào năm 2014, nặng 1054 kg [6]",
+            "quantity": 56
+           
+        },
+        {
+            "id": "11",
+            "categoryId" : "3",
+            "name": "Cherry thượng hạng",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-05.jpg",
+            "price": "495.000",
+            "status": true,
+            "mota": "Cherry (còn gọi là quả anh đào)  loại trái cây nhập khẩu được ưa chuộng bật nhất hiện nay được các chuyên gia dinh dưỡng hàng đầu công nhận và khuyên dùng không chỉ vì hương vị thơm ngon mà còn bời vì những lợi ích thiết thực của nó mà không phải loại trái cây nào cũng có được. Quả anh đào còn chứa nhiều vitamin A, melatonin, giàu chất sắt, chất xơ cao, chất béo, không cholesterol, tốt cho hệ miễn dịch, tiêu hóa và làm đẹp da…Loại trái cây này được đánh giá là rất tốt cho sức khỏe nhất là phụ nữ mang thai, trẻ em, người già và bệnh nhân đang ốm",
+            "quantity": 57587
+           
+        },
+        {
+            "id": "12",
+            "categoryId" : "1",
+            "name": "Cam không hạt ",
+            "image": "https://www.upsieutoc.com/images/2021/01/30/instagram-img-06.jpg",
+            "price": "183.000",
+            "status": false,
+            "mota": "Cam thực phẩm rất tốt cho sức khỏe. Chức năng:Quả cam cũng chứa nhiều vitamin C. Vitamin C giúp kích thích sự tăng trưởng của các tế bào mới và làm tăng hoạt động của hệ thống miễn dịch, giúp cơ thể tránh được nhiễm trùng, vi khuẩn và nấm.Cam giàu vitamin A và beta carotene, giúp giảm căng thẳng oxy hóa ở các tế bào võng mạc, do đó hạn chế thoái hóa điểm vàng và đục thủy tinh thể.",
+            "quantity": 51117
+        }
+    ],
+    "about" : [
+        {
+            "id":"1",
+            "img" :"https://www.upsieutoc.com/images/2021/01/30/about-img.jpg",
+            "mota":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+        }
+    ],
+    "categories" :[
+              {
+                  "id" :"1",
+                  "name":"Rau củ quả"
+              },
+              {
+                "id" :"2",
+                "name":"Hoa quả tươi"
+            },
+            {
+                "id" :"3",
+                "name":"Rau sạch"
+            }
+           
+    ]
+
+
+}

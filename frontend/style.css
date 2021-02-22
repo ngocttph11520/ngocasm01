@@ -1,0 +1,286 @@
+.d-flex{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.tieu-de-chung{
+	font-size: 32px;
+	font-weight: 700;
+	color: #000000;
+	text-transform: capitalize;
+	text-align: center;
+}
+.mo-ta-chung{
+	color: #999999;
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+header {
+	padding: 10px 0;
+}
+header ul{
+	float: right;
+	font-size: 20px;
+}
+header ul a{
+	color: #000000;
+	padding: 10px;
+}
+header ul a:hover{
+	color: #b0b435;
+}
+.anh1 img{
+	height: 262.5px;
+}
+.anh-nen{
+	overflow: hidden;
+
+}
+.anh-nen img{
+	max-width: 100%;
+	transition: all 0.5s ease;
+
+}
+.anh-nen:hover img{
+	box-shadow: 1px 1px 1px #c3c3c3;
+	transform: scale(1.2);
+}
+
+footer{
+	padding: 30px 0px 30px;
+	background: #010101;
+}
+footer hr{
+	border-top: 1px solid rgba(255,255,255,.6);
+	margin-bottom: 50px;
+}
+footer .tieu-de{
+	color: #ffffff;
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-bottom: 20px;
+	position: relative;
+	font-weight: 700;
+	padding-bottom: 12px
+}
+footer .tieu-de::before{
+	border-bottom: 3px solid #b0b435;
+	content: "";
+	height: 3px;
+	width: 100%;
+	position: absolute;
+	bottom: 3px;
+	left: 0px;
+}
+footer .noi-dung{
+	color: #fff;
+}
+
+footer  ul li a{
+	color: #ffffff;
+	display: block;
+	line-height: 32px;
+	position: relative;
+	padding-left: 15px;
+	transition: all .3s ease-in-out;
+}
+footer ul li a:hover{
+	color: #b0b435;
+	border-color: #b0b435;
+	padding-left: 20px;
+	text-decoration: none;
+}
+
+footer ul li > p {
+	position: relative;
+	font-size: 16px;
+	color: #cccccc;
+	font-weight: 300;
+	padding-right: 16px;
+	padding-left: 25px;
+	line-height: 24px;
+}
+footer ul li p i{
+	position: absolute;
+	left: 0;
+	top: 5px;
+	padding-right: 6px;
+}
+footer  ul li p a{
+	display: inline-block;
+	padding: 0 !important;
+}
+.anh-nen{
+	height: 450px;
+	overflow: hidden;
+}
+.anhhh{
+	height: 30px;
+}
+
+
+.ba-anh .tieu-de{
+	text-align: center;
+	padding: 12px;
+	background-color: #b0b435;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 700;
+	transition: all 0.5s ease;
+}
+.ba-anh .box:hover .tieu-de{
+	background-color: #000;
+}
+.hai-anh{
+	padding: 80px 0;
+	background-color: #f4f4f4;
+}
+.nhom-sp{
+	padding: 80px 0;
+	text-align: center;
+}
+
+.nhom-sp .nav-tabs{
+	display: inline-block;
+	border: none;
+	margin-bottom: 30px;
+}
+
+.nhom-sp .nav-tabs>li>a{
+	border-radius: 0;
+	background-color: #b0b435;
+	color: #fff;
+	padding: 10px 20px;
+}
+
+.nhom-sp .nav-tabs > li.active> a,
+.nhom-sp .nav-tabs > li.active> a:focus,
+.nhom-sp .nav-tabs>li.active>a:hover{
+	background-color: #000;
+	border-color: #000;
+	color: #fff;
+}
+.nhom-sp .nav-tabs>li{
+	float: unset;
+	display: inline-block;
+}
+
+.nhom-sp .box{
+	position: relative;
+	text-align: initial;
+}
+
+.nhom-sp span{
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 7px 10px;
+	background-color: #b0b435;
+	font-weight: bold;
+	color: #fff;
+}
+.nhom-sp span.new{
+	background-color: #000;
+}
+
+.nhom-sp .chi-tiet{
+	padding: 0 15px;
+	background-color: #f4f4f4;
+}
+.nhom-sp .chi-tiet h3{
+	font-size: 16px;
+	font-weight: 700;   
+	margin-top: 0;
+	padding-top: 15px;
+}
+
+.nhom-sp .chi-tiet p{
+	display: inline-block;
+	padding: 7px 10px;
+	background-color: #b0b435;
+	font-weight: bold;
+	color: #fff;
+}
+
+.tin-tuc{
+	padding: 80px 0;
+	background-color: #f4f4f4;
+}
+.tin-tuc .noi-dung{
+	background-color: #fff;
+	padding: 40px 30px;
+	position: relative;
+}
+
+.tin-tuc .noi-dung h3{
+	font-size: 20px;
+	font-weight: 700;
+	color: #000000;
+	margin-top: 0;
+}
+.tin-tuc .noi-dung .icon{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
+.tin-tuc .noi-dung .icon a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+	background-color: #000
+}
+
+.bentrai img{
+	width: 360px;
+	height:432px ;
+	
+
+}
+
+.ctsp{
+	display: grid;
+	grid-template: 1fr 1fr ;
+}
+
+.contact-info-left {
+    padding: 20px;
+    background: url(../tin-tuc/contact-bg.jpg) ;
+    background-size: cover;
+}
+/* danhsach */
+.list-inline .sub-menu{
+    position: absolute;
+    display: none;
+  
+    width: 180px;
+    background-color: rgb(43, 41, 41);
+   color: #fff;
+    padding: 5px 10px;
+}
+
+.list-inline li:hover>.sub-menu{
+    display: block;
+}
+
+.list-inline>li>.sub-menu{
+	padding-top: 20px;
+	
+}
+.list-inline .sub-menu a{
+	color: #fff;
+}
+.list-inline>li li a:hover{
+    color: #b0b435;
+}
